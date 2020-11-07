@@ -68,6 +68,7 @@ nav {
   body {
     background-position: center;
     overflow-x: hidden;
+    min-height:100vh;
   }
   .nav-links {
     position: absolute;
